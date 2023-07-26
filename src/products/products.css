@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Tapestry&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps:wght@400;700&family=Tapestry&display=swap');
+.main{
+  height: 100vh;
+  width: 200vh;
+  background-size: cover;
+  background-image: url("../images/greg-rosenke-6QnEf_b47eA-unsplash.jpg");
+}
+#protitle{
+    color: rgb(28, 139, 183);
+    font-size: 50px;
+    font-weight: 600;
+    font-family: serif;
+}
+#pimage{
+  width: 180px;
+  height: 200px; 
+}
+#des{
+  font-size: 10px;
+}
+#pt{
+  color: rgb(40, 238, 146);
+  font-family: monospace;
+}

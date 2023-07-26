@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Tapestry&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps:wght@400;700&family=Tapestry&display=swap');
+#main{
+  height: 100vh;
+  width: 200vh;
+  background-size: cover;
+  background-image: url("../images/greg-rosenke-6QnEf_b47eA-unsplash.jpg");
+}
+#title{
+    color: rgb(28, 139, 183);
+    font-size: 50px;
+    font-weight: 600;
+    font-family: serif;
+}
+.cards{
+    background-color: rgb(76, 76, 138);
+    border-radius: 5px;
+    border-style: groove;
+    border-width: 5px;
+    border-color: rgb(185, 112, 4);
+    width: 750px;
+    height: 330px;
+}
+button{
+    width: 122px;
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 56px;
+    border-color: rgb(19, 19, 78);
+    background-color: rgb(36, 68, 106);
+    color: black;
+    font-size: 16px;
+    font-family: monospace;
+}
+h2{
+    color: black;
+}
+#age{
+   margin-left: 536px;
+    margin-top: -50px;
+   font-size: 15px;
+}
+img{
+    border-radius: 10px;
+    margin-right: 550px;
+    margin-top: -40px;
+}
+.email{
+    margin-top: -79px;
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.729);
+}
+#details{
+    font-family: cursive;
+    color: rgb(194, 193, 201);
+}
+#login{
+    margin-top: 10px;
+    color: rgb(60, 183, 36);
+    font-family:fantasy;
+    letter-spacing: 4px;
+}
+#reg{
+   margin-top: 20px;
+    font-family: cursive;
+    font-size: smaller;
+    color: rgb(9, 9, 9);
+}

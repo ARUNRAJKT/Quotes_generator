@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Tapestry&display=swap');
+
+.main{
+  height: 100vh;
+  width: 200vh;
+  background-size: cover;
+  background-image: url("./images/greg-rosenke-6QnEf_b47eA-unsplash.jpg");
+}
+.quote{
+  background: rgba(244, 244, 244, 0.3);
+  height: 250px;
+  position: absolute;
+  border-radius: 20px;
+ top: 290px;
+ left: 470px;
+  width: 600px;
+}
+.button button{
+  margin-left: 10px;
+  width: 120px;
+  height: 50px;
+  border-radius: 5px;
+  background: rgba(32, 32, 92, 0.3);
+  margin-top: px;
+  border: none;
+  color: azure;
+  font-weight: 600;
+  font-size: 20px;
+  font-family: 'Tapestry', cursive;
+}
+button:hover{
+  background-color: wheat;
+  opacity: .4;
+  color: white;
+}
+.writeup{
+  font-size: 40px;
+  font-family: 'Oleo Script Swash Caps', cursive;
+  color: black;
+  margin-top: 20px;
+}
+input{
+  height: 30px;
+  border-radius: 5px;
+  background-color: rgb(70, 66, 98);
+  color: white;
+}
+::placeholder{
+  color: white;
+}
+.navmain{
+  background-color: black;
+}
